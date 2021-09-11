@@ -1,6 +1,6 @@
 Hi there 👋
 <th>
-I’m Ritika Sethi! I am currently pursuing my undergraduation in Computer Science and Engineering. My Skills include HTML, CSS, JavaScript, Wordpress, Canva and programming in C, C++, Python.
+I’m Ritika Sethi! I am currently pursuing my undergraduation in Computer Science and Engineering. My Skills include HTML, CSS, JavaScript, Wordpress, Canva and programming in C, C++, Python.<th>
 📫 You can reach me at ritikasethi236@gmail.com
 
 <!---
